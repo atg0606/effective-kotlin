@@ -1,10 +1,10 @@
-package org.atg0606.effectivekotlin.item
+package org.atg0606.effectivekotlin.chapter1
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class Item2Test {
+class Item2 {
 
     @Test
     fun run() {
