@@ -3,8 +3,11 @@
 
 <br>
 
+# 스터디 회의록
+- [2024-04-12](https://github.com/atg0606/effective-kotlin/blob/master/src/main/kotlin/org/atg0606/effectivekotlin/note/240412-Item1-2.md)
 
-# 1부 좋은 코드
+
+## 1부 좋은 코드
 
 ### 1장 안정성
 - [아이템 1 : 가변성을 제한하라](https://atg0606.tistory.com/11)
