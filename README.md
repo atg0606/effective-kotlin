@@ -17,3 +17,5 @@
 - [아이템 3 : 최대한 플랫폼 타입을 사용하지 말라](https://atg0606.tistory.com/13)
 - [아이템 4 : inferred 타입으로 리턴하지 말라](https://atg0606.tistory.com/14)
 - [아이템 5 : 예외를 활용해 코드에 제한을 걸어라](https://atg0606.tistory.com/15)
+- [아이템 6 : 사용자 정의 오류보다는 표준 오류를 사용하라](https://atg0606.tistory.com/17)
+- 
