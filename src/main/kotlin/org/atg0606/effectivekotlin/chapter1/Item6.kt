@@ -12,4 +12,6 @@ class Item6 {
 //    ConcurrentModificationException("Concurrent modification")
 //    UnsupportedOperationException("Unsupported operation")
 //    NoSuchElementException("No such element")
+
+//    val age = Item5().
 }

@@ -18,4 +18,5 @@
 - [아이템 4 : inferred 타입으로 리턴하지 말라](https://atg0606.tistory.com/14)
 - [아이템 5 : 예외를 활용해 코드에 제한을 걸어라](https://atg0606.tistory.com/15)
 - [아이템 6 : 사용자 정의 오류보다는 표준 오류를 사용하라](https://atg0606.tistory.com/17)
-- 
+- [아이템 7 : 결과 부족이 발생할 경우 null과 Failure를 사용하라](https://atg0606.tistory.com/18)
+- [아이템 8 : 적절하게 null을 처리하라](https://atg0606.tistory.com/19)
