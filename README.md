@@ -20,3 +20,6 @@
 - [아이템 6 : 사용자 정의 오류보다는 표준 오류를 사용하라](https://atg0606.tistory.com/17)
 - [아이템 7 : 결과 부족이 발생할 경우 null과 Failure를 사용하라](https://atg0606.tistory.com/18)
 - [아이템 8 : 적절하게 null을 처리하라](https://atg0606.tistory.com/19)
+- [아이템 9 : use를 사용하여 리소스를 닫아라](https://atg0606.tistory.com/23)
+- [아이템 10 : 단위 테스트를 만들어라](https://atg0606.tistory.com/24)
+- [아이템 11 : 가독성을 목표로 설계하라](https://atg0606.tistory.com/25)
