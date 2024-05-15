@@ -1,4 +1,4 @@
-package org.atg0606.effectivekotlin.chapter1
+package org.atg0606.effectivekotlin.chapter2
 
 
 fun main() {
